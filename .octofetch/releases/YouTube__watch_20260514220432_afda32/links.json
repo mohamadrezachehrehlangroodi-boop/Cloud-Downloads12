@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8426",
+  "folder": "YouTube__watch_20260514220432_afda32",
+  "base_name": "N9TT9sWU1wE_N9TT9sWU1wE_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mohamadrezachehrehlangroodi-boop/Cloud-Downloads12/releases/tag/co-releases-v1-8426",
+  "files": [
+    {
+      "name": "N9TT9sWU1wE_N9TT9sWU1wE_480p.mp4",
+      "url": "https://github.com/mohamadrezachehrehlangroodi-boop/Cloud-Downloads12/releases/download/co-releases-v1-8426/N9TT9sWU1wE_N9TT9sWU1wE_480p.mp4",
+      "api_url": "https://api.github.com/repos/mohamadrezachehrehlangroodi-boop/Cloud-Downloads12/releases/assets/420497948",
+      "id": 420497948,
+      "size": 63422187,
+      "download_count": 0
+    }
+  ]
+}
